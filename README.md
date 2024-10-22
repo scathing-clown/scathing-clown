@@ -1,16 +1,15 @@
-## Hi there 👋
+# Привет! 👋 Меня зовут Александр
 
-<!--
-**scathing-clown/scathing-clown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я QA Automation Engineer из Москвы с опытом работы в автоматизации тестирования и навыками в области машинного обучения и анализа данных. Мой основной язык программирования — Python, и я активно использую его как для тестирования, так и для Data Science.
 
-Here are some ideas to get you started:
+## 🛠 Мои навыки
+- Автоматизация тестирования: Python, Playwright, PyTest, ООП, Allure, Page Object Model (POM), XPath, CSS
+- Инструменты разработки: Git, CI/CD
+- Машинное обучение и Data Science: Pandas, Numpy, Matplotlib, Scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Текущие интересы
+Сейчас я активно работаю над проектами в области автоматизации тестирования и продолжаю углублять свои знания в ML и DS. Всегда открыт для интересных проектов и возможностей для сотрудничества.
+
+## 📫 Как со мной связаться
+[![VK](https://img.shields.io/badge/-VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white)](https://m.vk.com/scathing_clown) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scathingclown@gmail.com)
